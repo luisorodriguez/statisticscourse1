@@ -16,6 +16,6 @@ Algunos ejemplos de parámetros de interés en una población son: la media, la 
 Se refiere al hecho de aproximar el valor del parámetro poblacional utilizando el valor arrojado por la muestra.
 Esta puede ser de 2 tipos:
 
-#### Puntual.
+### Puntual.
 Se estima el parámetro con su equivalente en la muestra, sin mostrar el grado de error de la estimación.
 El estimador puntual se representa como $\widehat{\theta}$.
