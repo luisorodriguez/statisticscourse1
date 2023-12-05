@@ -18,4 +18,4 @@ Esta puede ser de 2 tipos:
 
 Puntual.
 Se estima el parámetro con su equivalente en la muestra, sin mostrar el grado de error de la estimación.
-El estimador puntual se representa como \widehat{\theta}.
+El estimador puntual se representa como $\widehat{\theta}$.
