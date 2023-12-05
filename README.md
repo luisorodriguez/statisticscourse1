@@ -2,7 +2,7 @@
 
 ¡Hola, estimado lector!
 
-Recién me encuentro migrando todos los mini cursos y proyectos que tengo en mis antiguas páginas como son funkymath.wordpress.com y laesencia deldato.com.mx, con el fin de unificar todo, por lo que espero no te sorprenda ver el mismo contenido aquí y allá (Que con el paso del tiempo iré mejorando). Te mando un saludo y espero que pueda serte de utilidad el artículo!
+Recién me encuentro migrando todos los mini cursos y **proyectos que tengo en mis antiguas** páginas como son funkymath.wordpress.com y laesencia deldato.com.mx, con el fin de unificar todo, por lo que espero no te sorprenda ver el mismo contenido aquí y allá (Que con el paso del tiempo iré mejorando). Te mando un saludo y espero que pueda serte de utilidad el artículo!
 
 ## La inferencia estadística o estadística inferencial.
 
